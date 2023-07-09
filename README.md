@@ -1,6 +1,6 @@
 <h1 align="center">
   <a href="# Project Management Tool"></a>
-  Content Management Tool
+  Project Management tool
 </h1>
 
 ## `Project Title`
